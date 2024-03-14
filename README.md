@@ -1,5 +1,5 @@
 # Hello there 👋
-My name is Kai.
+My name is Kai. </br>
 Fulltime DBA, study business IT in the evening and do stuff in my homelab.
 
 ### In my homelab I've worked mainly with:
